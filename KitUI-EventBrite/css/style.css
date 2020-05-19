@@ -1,0 +1,30 @@
+.page-header {
+  margin: 0px 0px 120px 0px;
+}
+
+/**Formuliares sign up, sign in**/
+.form-sigh{
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  max-width: 300px;
+}
+
+.form-sign{
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  max-width: 300px;
+}
+
+.form-title {
+  padding-bottom: 40px;
+}
+
+.img-header img{
+  width: 100%;
+  height: auto; 
+  /*border: 5px #000000 solid; */
+  text-align: center;
+  margin: auto;
+  }
